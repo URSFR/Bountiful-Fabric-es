@@ -1,0 +1,88 @@
+{
+
+	"block.bountiful.bountyboard": "Tablero de Trabajo",
+
+	"itemGroup.bountiful": "Bountiful",
+
+	"bountiful.item_tag.any_door": "Cualquier Puerta",
+	"bountiful.item_tag.any_wool": "Cualquier Lana",
+	"bountiful.item_tag.any_planks": "Cualquier Tablón",
+	"bountiful.item_tag.any_log": "Cualquier Tronco",
+	"bountiful.item_tag.any_fence": "Cualquier Valla",
+	"bountiful.item_tag.any_bed": "Cualquier Cama",
+	"bountiful.item_tag.any_boat": "Cualquier Bote",
+	"bountiful.item_tag.any_candle": "Cualquier Vela",
+	"bountiful.item_tag.any_banner": "Cualquier Bandera",
+	"bountiful.item_tag.any_wool": "Cualquier Lana",
+
+	"bountiful.decree": "Orden",
+	"bountiful.decrees": "Ordenes",
+	"bountiful.decree.invalid": "Orden inválida",
+	"bountiful.decree.notset": "Trae esto a un Tablero de Trabajo!",
+
+	"bountiful.bounty.expired": "El Trabajo ha expirado.",
+	"bountiful.bounty.turnin": "Completa tu recompensa haciendo clic con el botón derecho en un Tablero de Trabajo.",
+
+	"bountiful.advancement.bounty_taken.title": "Trabajo por contrato",
+	"bountiful.advancement.bounty_taken.desc": "Toma una recompensa de un Tablero de Trabajo",
+
+	"bountiful.advancement.bounty_complete.title": "Pago honesto por trabajo honesto",
+	"bountiful.advancement.bounty_complete.desc": "Completa por una recompensa!",
+
+	"bountiful.advancement.rush_order.title": "Delivery urgente",
+	"bountiful.advancement.rush_order.desc": "Completa el trabajo en menos de 1 minuto",
+
+	"bountiful.advancement.procrastinator.title": "Maestro de la indecisión",
+	"bountiful.advancement.procrastinator.desc": "Completa el trabajo quedando 5 segundos",
+
+	"bountiful.advancement.town_crier.title": "Pregonero",
+	"bountiful.advancement.town_crier.desc": "Obtén un decreto!",
+
+	"bountiful.advancement.royal_mandate.title": "Mandato Real",
+	"bountiful.advancement.royal_mandate.desc": "Coloca un decreto en un tablero de recompensas",
+
+	"bountiful.bounty": "Trabajo",
+
+	"bountiful.decree.armorer.name": "Forjador de Armaduras",
+	"bountiful.decree.butcher.name": "Carnicero",
+	"bountiful.decree.chef.name": "Suministros de Chef",
+	"bountiful.decree.cleric.name": "Suministros de Clerigo",
+	"bountiful.decree.farmer.name": "Agricultura",
+	"bountiful.decree.fisherman.name": "Pesca",
+	"bountiful.decree.fletcher.name": "Flechero",
+	"bountiful.decree.hunting.name": "Caceria",
+	"bountiful.decree.leatherer.name": "Peletería",
+	"bountiful.decree.librarian.name": "Libreria",
+	"bountiful.decree.mapper.name": "Cartógrafo",
+	"bountiful.decree.mason.name": "Albañilería",
+	"bountiful.decree.shepherd.name": "Pastoría",
+	"bountiful.decree.tinker.name": "Reparador",
+	"bountiful.decree.toolsmith.name": "Herrería",
+	"bountiful.decree.runewright.name": "Rúnico",
+	"bountiful.decree.invalid_decree.name": "Orden inválida",
+
+	"bountiful.bounty.type.entity.kills": "Matar",
+
+	"bountiful.bounty.type.experience.levels": "Niveles de Experiencia",
+	"bountiful.bounty.type.experience.points": "Puntos de Experiencia",
+
+
+	"bountiful.rarity.Common": "Común",
+	"bountiful.rarity.Uncommon": "Poco Común",
+	"bountiful.rarity.Rare": "Raro",
+	"bountiful.rarity.Epic": "Epico",
+
+	"stat.bountiful.bounties_taken": "Trabajos Tomados",
+	"stat.bountiful.bounties_done": "Trabajos Completados (Total)",
+	"stat.bountiful.bounties_done_0": "Trabajos Completados (Común)",
+	"stat.bountiful.bounties_done_1": "Trabajos Completados (Poco Común)",
+	"stat.bountiful.bounties_done_2": "Trabajos Completados (Raro)",
+	"stat.bountiful.bounties_done_3": "Trabajos Completados (Epico)",
+
+	"bountiful.tooltip.advanced": "Manten Shift para ver los detalles del objeto",
+	"bountiful.tooltip.time": "Tiempo para completar",
+	"bountiful.tooltip.required": "Requerido",
+	"bountiful.tooltip.rewards": "Recompensa",
+	"bountiful.tooltip.expired": "Expirado",
+	"bountiful.tooltip.requirements": "No se cumplen los requisitos."
+}
